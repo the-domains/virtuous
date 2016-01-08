@@ -1,6 +1,6 @@
 name: Virtuous
 favicon: null
-layout_spectrum: 0.18506
+layout_spectrum: 0.47718
 typography_spectrum: 0.79087
 title: 'Virtuous, LLC - Film of the Highest Caliber'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#2f2e2c'
     - '#5d5d5d'
     - '#858686'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.5602540725376457
-  saturation: 0.4375
+  saturation: 0.5
   rhythmicContrast: 0.9019381275866181
 purpose: []
