@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: The White Christmas has Cum
-datePublished: '2016-01-08T18:34:51.953Z'
-dateModified: '2016-01-08T18:34:50.711Z'
+datePublished: '2016-01-08T18:45:10.313Z'
+dateModified: '2016-01-08T18:45:06.467Z'
 title: Road Lubricant
 author: []
 sourcePath: _posts/2016-01-08-road-lubricant.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: road-lubricant/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Road Lubricant
