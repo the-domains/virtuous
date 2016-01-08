@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T19:52:08.115Z'
-dateModified: '2016-01-08T19:51:59.002Z'
+datePublished: '2016-01-08T21:29:25.859Z'
+dateModified: '2016-01-08T21:22:22.895Z'
 title: Super duper Desert stuff
 author: []
 authors: []
