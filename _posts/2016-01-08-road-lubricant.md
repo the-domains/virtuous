@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-08T18:32:39.202Z'
-dateModified: '2016-01-08T18:32:35.430Z'
+datePublished: '2016-01-08T18:33:45.302Z'
+dateModified: '2016-01-08T18:33:42.987Z'
 title: Road Lubricant
 author: []
 sourcePath: _posts/2016-01-08-road-lubricant.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Road Lubricant
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7158bba8-e3fb-4953-9a25-f5b115bbdfe8.png)
 
 ## The White Christmas has Cum
 
