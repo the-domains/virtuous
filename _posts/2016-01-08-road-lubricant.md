@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The White Christmas has Cum
-datePublished: '2016-01-08T18:07:18.295Z'
-dateModified: '2016-01-08T18:07:16.075Z'
+datePublished: '2016-01-08T18:10:35.120Z'
+dateModified: '2016-01-08T18:10:31.762Z'
 title: Road Lubricant
 author: []
 sourcePath: _posts/2016-01-08-road-lubricant.md
@@ -29,9 +29,8 @@ _type: Article
 
 **[Watch Full Film Now][0]**
 
-[Road Lubricant | Trailer \#3 | Cumming Soon][1] from [Virtuous][2] on [Vimeo][3].
+<iframe src="https://player.vimeo.com/video/144458449?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" style=""></iframe>
+
+__<\></\>
 
 [0]: https://vimeo.com/149931768
-[1]: https://vimeo.com/144458449
-[2]: https://vimeo.com/user10689102
-[3]: https://vimeo.com/
