@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Virtuous, LLC - Film of the Highest Caliber]]></title>
         <description><![CDATA[Virtuous, LLC - Film of the Highest Caliber]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/virtuous/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 14:04:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 17:29:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virtuous/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Road Lubricant]]></title>
-            <description><![CDATA[<article><h1>Road Lubricant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e7071a95d41dc54b5162a701425b65ec11a70ee.png"></article>]]></description>
-            <link>undefinedroad-lubricant/index.html</link>
+            <description><![CDATA[<article><h1>Road Lubricant</h1><p>The White Christmas has Cum</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e7071a95d41dc54b5162a701425b65ec11a70ee.png"></article>]]></description>
+            <link>https://thegrid.ai/virtuous/road-lubricant/index.html</link>
             <guid isPermaLink="false">c71cb56e-1b54-43c9-99f7-fbebfbb206c4</guid>
-            <pubDate>Fri, 08 Jan 2016 14:04:03 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 17:28:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
